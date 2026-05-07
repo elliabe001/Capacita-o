@@ -1,0 +1,32 @@
+VERSÃO V8 - CAPACITAÇÃO EM ATENDIMENTO NORTE.NET
+
+LOGIN PADRÃO:
+Usuário: instrutor
+Senha: 123456
+Também é possível acessar com CPF cadastrado.
+
+CORREÇÕES INCLUÍDAS:
+- Certificado liberado somente após conclusão de todos os módulos do setor do aluno.
+- Nome do certificado corrigido para UNIVERSIDADE NORTE.NET.
+- Login com botão ativo para visualizar/ocultar senha.
+- Rodapé mais discreto e legível.
+- Painel do aluno com contato do instrutor responsável, por tipo de instrutor.
+- Link direto para WhatsApp e e-mail do instrutor.
+- Área de plataformas e sistemas utilizados pela empresa.
+- Fundo com teia de conexão global.
+- Opção de cadastro e edição de tipos de instrutor.
+- Estrutura mantida para futura versão online.
+
+COMO CONFIGURAR TIPOS DE INSTRUTOR:
+Painel do Instrutor > Configurações > Tipos de instrutor.
+Depois cadastre/edite o instrutor e selecione o tipo correspondente.
+No cadastro do aluno, selecione o tipo de instrutor responsável.
+
+COMO CONFIGURAR PLATAFORMAS:
+Painel do Instrutor > Configurações > Links de plataformas e sistemas.
+Formato: Nome da plataforma | https://link
+
+CRÉDITOS:
+Confresa-MT
+Desenvolvido por Eliabe Souza Oliveira
+Supervisor de Atendimento-MT
